@@ -12,7 +12,7 @@
 ### :fire: My Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toktarov84&theme=solarized)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](username=toktarov84)
 
 <br>
 
