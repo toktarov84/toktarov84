@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Computer+science+student)](https://git.io/typing-svg)
+
 <br>
 
 ### :hammer_and_wrench: Languages and Tools :
