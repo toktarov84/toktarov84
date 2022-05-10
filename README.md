@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%333333&lines=I'm+computer+science+student!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%333333&lines=I'm+computer+science+student!)](https://git.io/typing-svg)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
