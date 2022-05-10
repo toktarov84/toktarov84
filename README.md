@@ -12,8 +12,6 @@
 ### :fire: My Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toktarov84)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=toktarov84&style=flat-square&color=blue" alt=""/>
