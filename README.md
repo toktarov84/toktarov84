@@ -10,7 +10,7 @@
 </div>
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toktarov84&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toktarov84&theme=default)
 
 <!--
 **toktarov84/toktarov84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
