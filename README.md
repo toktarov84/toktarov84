@@ -1,6 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=000000&lines=Hi+there!;My+name+is+Vitaly+Toktarov.;I+like+to+solve+exciting+problems!;...)
-<div></div>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1000&color=000000&lines=1%;2%;3%;4%;5%;6%;7%;8%;9%;10%;11%;12%;13%;14%;15%;16%;17%;18%;19%;20%)
+![Typing SVG](
+  https://readme-typing-svg.herokuapp.com?duration=1000&color=000000
+  &lines=1%;2%;3%;4%;5%;6%;7%;8%;9%;
+  10%;11%;12%;13%;14%;15%;16%;17%;18%;19%;
+  20%;21%;22%;23%;24%;25%;26%;27%;28%;29%;30%
+)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
