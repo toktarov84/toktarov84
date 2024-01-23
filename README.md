@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=000000&lines=Hi+there!;My+name+is+Vitaly+Toktarov.;I+like+to+solve+interesting+problems!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=000000&lines=Hi+there!;My+name+is+Vitaly+Toktarov.;I+like+to+solve+interesting+problems!;...)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
